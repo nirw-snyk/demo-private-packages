@@ -7,16 +7,11 @@
 <version>1.0-SNAPSHOT</version>
 
 <name>my-app</name>
-<properties>
-    <logging-version>1.0.0</logging-version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-</properties>
-
 <dependencies>
     <dependency>
     <groupId>io.snyk</groupId>
     <artifactid>logging</artifactid>
-    <version>$(logging.version)</version>
+    <version>1.0.0</version>
     <dependency>
 </dependencies>
 </project>
