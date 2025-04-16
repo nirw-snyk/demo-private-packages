@@ -10,7 +10,7 @@
 <dependencies>
     <dependency>
     <groupId>io.snyk</groupId>
-    <artifactid>logging</artifactid>
+    <artifactId>logging</artifactId>
     <version>1.0.0</version>
     <dependency>
 </dependencies>
