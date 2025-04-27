@@ -9,7 +9,8 @@
     },
     "dependencies": {
       "adm-zip": "0.4.11",
-      "@snyk/log": "2.0.1"
+      "@snyk/log": "2.0.1",
+      "lodash": "4.17.20"
     },
     "devDependencies": {
       "browserify": "^13.1.1",
