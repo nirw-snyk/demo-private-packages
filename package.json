@@ -8,7 +8,7 @@
       "url": "https://github.com/Snyk/snyk-todo-list-demo-app/"
     },
     "dependencies": {
-      "adm-zip": "0.4.11",
+      "adm-zip": "0.5.16",
       "lodash": "4.17.20",
       "@snyk/log": "2.0.0"
     },
