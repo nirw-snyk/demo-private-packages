@@ -9,7 +9,7 @@
     },
     "dependencies": {
       "adm-zip": "0.4.11",
-      "lodash": "4.17.21",
+      "lodash": "4.17.23",
       "@snyk/log": "2.0.2"
     },
     "devDependencies": {
